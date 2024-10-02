@@ -45,3 +45,13 @@ body{
     opacity: 1;
     transition: opacity 0.3s ease-in 0.4s;
 }
+@media (max-width:480px){
+    .container{
+        width:100vw;
+    }
+    .panel:nth-type-of(4),.panel:nth-type-of(5){
+        visibility:hidden;
+    }
+        
+}
+    
