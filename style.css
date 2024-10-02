@@ -49,7 +49,7 @@ body{
     .container{
         width:100vw;
     }
-    .panel:nth-type-of(4),.panel:nth-type-of(5){
+    .panel:nth-of-type(4),.panel:nth-of-type(5){
         visibility:hidden;
     }
         
